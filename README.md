@@ -10,4 +10,5 @@ Broadly, we have to perform the following steps (in sequence) on the client appl
 </ol>
 	
 
+<b><u>Steps to make the sample running</u></b>
 
