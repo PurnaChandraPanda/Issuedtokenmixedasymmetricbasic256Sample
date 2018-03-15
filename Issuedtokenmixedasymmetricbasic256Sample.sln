@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Issuedtokenmixedasymmetricbasic256WcfService1", "Issuedtokenmixedasymmetricbasic256WcfService1\Issuedtokenmixedasymmetricbasic256WcfService1.csproj", "{254748E0-6102-4247-A69F-71AA55016C7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveADFSClientApp", "ActiveADFSClientApp\ActiveADFSClientApp.csproj", "{2E0F143E-B7C0-4083-B81B-EA0286B547AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254748E0-6102-4247-A69F-71AA55016C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254748E0-6102-4247-A69F-71AA55016C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254748E0-6102-4247-A69F-71AA55016C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254748E0-6102-4247-A69F-71AA55016C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0F143E-B7C0-4083-B81B-EA0286B547AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0F143E-B7C0-4083-B81B-EA0286B547AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0F143E-B7C0-4083-B81B-EA0286B547AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0F143E-B7C0-4083-B81B-EA0286B547AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
