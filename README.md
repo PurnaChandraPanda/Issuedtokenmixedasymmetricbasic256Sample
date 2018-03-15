@@ -6,3 +6,4 @@ Broadly, we have to perform the following steps (in sequence) on the client appl
 	a. Using "UserNameWSTrustBinding", client gets token from "usernamemixed" ADFS endpoint.
 	b. Using "IssuedTokenWSTrustBinding", client presents the above token to "issuedtokenmixedsymmetricbasic256" ADFS endpoint, and gets a token in response.
 	c. Using "WS2007FederationHttpBinding", the token is presented during the WCF service operation call.
+
